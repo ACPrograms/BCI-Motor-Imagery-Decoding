@@ -63,6 +63,6 @@ This study successfully demonstrated the decoding of motor imagery from raw EEG 
 
 ### References
 1. Schalk, G., et al. (2004). *BCI2000: A General-Purpose Brain-Computer Interface (BCI) System*. IEEE Transactions on Biomedical Engineering.
-2. Blankertz, P., et al. (2008). *The Berlin Brain-Computer Interface: Non-Medical Uses of BCI Technology*. Frontiers in Neuroscience.
+2. Blankertz, P., et al. (2010). *The Berlin Brain-Computer Interface: Non-Medical Uses of BCI Technology*. Frontiers in Neuroscience.
 3. Vidaurre, C., & Blankertz, B. (2010). *Towards a Cure for BCI Illiteracy*. Brain Topography, 4(2).
 4. Gramfort, A., et al. (2013). *MEG and EEG Data Analysis with MNE-Python*. Frontiers in Neuroscience.
