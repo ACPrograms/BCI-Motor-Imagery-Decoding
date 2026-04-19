@@ -1,8 +1,8 @@
 # Decoding Motor Imagery from Non-Invasive EEG: A Comparative Analysis of CSP-LDA and SVM Architectures in the Context of BCI Illiteracy
 
-**Author:** [Your Name Here]  
+**Author:** Amar Chabli 
 **Date:** April 2026  
-**Institution:** [Your Current College] / Independent Research 
+**Institution:** Berkeley City College / Independent Research 
 
 ## Abstract
 Brain-Computer Interfaces (BCIs) rely on the accurate decoding of neural oscillatory patterns to translate human intent into computational commands. A primary challenge in non-invasive electroencephalography (EEG) is the low signal-to-noise ratio and high inter-subject variance. This study evaluates the decoding of motor imagery (imagining left versus right fist movement) across 20 subjects using the PhysioNet EEG dataset. Two machine learning pipelines were contrasted: a baseline Common Spatial Pattern (CSP) and Support Vector Machine (SVM) model with broad parameters, and a neurobiologically optimized CSP and Linear Discriminant Analysis (LDA) model. The baseline model achieved a mean accuracy of 49.94% (random chance). By constraining the frequency band to the Mu-rhythm (8–15 Hz), narrowing the temporal epoch to eliminate cognitive fatigue, and utilizing LDA, the optimized intra-subject model improved mean accuracy to 59.8%. Furthermore, the results highlight the phenomenon of "BCI Illiteracy," with highly decodable subjects achieving >75% accuracy while others remained near random chance, demonstrating the necessity of individualized calibration in neurotechnology.
