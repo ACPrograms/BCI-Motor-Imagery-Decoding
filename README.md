@@ -50,3 +50,11 @@ More importantly, the intra-subject variance proves the neuro-cognitive phenomen
 │   └── 04_visualize_results.py         # Generates statistical plots via Seaborn/Matplotlib
 └── paper/                              
     └── bci_research_paper_draft.md     # Formal write-up of methodology and conclusions
+```
+
+## Technologies Used
+* **Python 3.12**
+* **MNE-Python:** EEG data processing, artifact removal, and epoching.
+* **Scikit-Learn:** CSP feature extraction, SVM, LDA, and cross-validation.
+* **Pandas / NumPy:** Data structuring and matrix manipulation.
+* **Seaborn / Matplotlib:** Statistical data visualization.
