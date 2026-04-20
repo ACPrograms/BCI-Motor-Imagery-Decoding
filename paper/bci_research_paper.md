@@ -62,7 +62,15 @@ This study successfully demonstrated the decoding of motor imagery from raw EEG 
 ***
 
 ### References
-1. Schalk, G., et al. (2004). *BCI2000: A General-Purpose Brain-Computer Interface (BCI) System*. IEEE Transactions on Biomedical Engineering.
-2. Blankertz, P., et al. (2010). *The Berlin Brain-Computer Interface: Non-Medical Uses of BCI Technology*. Frontiers in Neuroscience.
-3. Vidaurre, C., & Blankertz, B. (2010). *Towards a Cure for BCI Illiteracy*. Brain Topography, 4(2).
-4. Gramfort, A., et al. (2013). *MEG and EEG Data Analysis with MNE-Python*. Frontiers in Neuroscience.
+
+1. Schalk, G., McFarland, D. J., Hinterberger, T., Birbaumer, N., & Wolpaw, J. R. (2004). *BCI2000: A General-Purpose Brain-Computer Interface (BCI) System*. *IEEE Transactions on Biomedical Engineering*, 51(6), 1034–1043. [https://doi.org/10.1109/TBME.2004.827072](https://doi.org/10.1109/TBME.2004.827072)
+
+2. Blankertz, B., et al. (2010). *The Berlin Brain-Computer Interface: Non-Medical Uses of BCI Technology*. *Frontiers in Neuroscience*, 4, 198. [https://doi.org/10.3389/fnins.2010.00198](https://doi.org/10.3389/fnins.2010.00198)
+
+3. Vidaurre, C., & Blankertz, B. (2010). *Towards a Cure for BCI Illiteracy*. *Brain Topography*, 23(2), 206–212. [https://doi.org/10.1007/s10548-010-0141-5](https://doi.org/10.1007/s10548-010-0141-5)
+
+4. Gramfort, A., Luessi, M., Larson, E., Engemann, D. A., Strohmeier, D., Brodbeck, C., Goj, R., Jas, M., Brooks, T., Parkkonen, L., & Hämäläinen, M. (2013). *MEG and EEG data analysis with MNE-Python*. *Frontiers in Neuroscience*, 7, 267. [https://doi.org/10.3389/fnins.2013.00267](https://doi.org/10.3389/fnins.2013.00267)
+
+5. Lotte, F., Bougrain, L., Cichocki, A., Gramann, K., Müller, K.-R., Rao, R. P. N., & Müller-Putz, G. R. (2018). *A Review of Classification Algorithms for EEG-based Brain–Computer Interfaces: A 10-year Update*. *Journal of Neural Engineering*, 15(3), 031005. [https://doi.org/10.1088/1741-2552/aab2f2](https://doi.org/10.1088/1741-2552/aab2f2)
+
+6. Jayaram, V., Alamgir, M., Plotnikova, Y., Schölkopf, B., & Lampert, C. H. (2016). *MEG and EEG data fusion with the Common Spatial Pattern algorithm*. *Journal of Neural Engineering*, 13(5), 056004. [https://doi.org/10.1088/1741-2560/13/5/056004](https://doi.org/10.1088/1741-2560/13/5/056004)
